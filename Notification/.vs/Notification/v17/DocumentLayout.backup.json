@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Migrations\\20251110052755_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notification\\Migrations\\20251110052755_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\services\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\services\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\mapping\\taskprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\mapping\\taskprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\queries\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\queries\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\commands\\deletecommandtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\commands\\deletecommandtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\commands\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\commands\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\dtos\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\dtos\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|c:\\users\\ancha\\desktop\\new folder\\signalr\\notification\\notification\\notification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10455D79-60BE-41A3-A29B-E7F17FDC33B3}|Notification\\Notification.csproj|solutionrelative:notification\\notification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251110052755_init.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Migrations\\20251110052755_init.cs",
+              "RelativeDocumentMoniker": "Notification\\Migrations\\20251110052755_init.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Migrations\\20251110052755_init.cs",
+              "RelativeToolTip": "Notification\\Migrations\\20251110052755_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:27:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Program.cs",
+              "RelativeDocumentMoniker": "Notification\\Program.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Program.cs",
+              "RelativeToolTip": "Notification\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:06:44.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Commands\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "Notification\\Commands\\CreateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Commands\\CreateTaskCommand.cs",
+              "RelativeToolTip": "Notification\\Commands\\CreateTaskCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:24:17.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Notification\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Notification\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:14:27.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\appsettings.json",
+              "RelativeDocumentMoniker": "Notification\\appsettings.json",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\appsettings.json",
+              "RelativeToolTip": "Notification\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T04:38:12.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCommandTask.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Commands\\DeleteCommandTask.cs",
+              "RelativeDocumentMoniker": "Notification\\Commands\\DeleteCommandTask.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Commands\\DeleteCommandTask.cs",
+              "RelativeToolTip": "Notification\\Commands\\DeleteCommandTask.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:26:13.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Notification\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "Notification\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:13:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Queries\\GetTasksQuery.cs",
+              "RelativeDocumentMoniker": "Notification\\Queries\\GetTasksQuery.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Queries\\GetTasksQuery.cs",
+              "RelativeToolTip": "Notification\\Queries\\GetTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:31:24.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Mapping\\TaskProfile.cs",
+              "RelativeDocumentMoniker": "Notification\\Mapping\\TaskProfile.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Mapping\\TaskProfile.cs",
+              "RelativeToolTip": "Notification\\Mapping\\TaskProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:32:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Commands\\UpdateTaskCommand.cs",
+              "RelativeDocumentMoniker": "Notification\\Commands\\UpdateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Commands\\UpdateTaskCommand.cs",
+              "RelativeToolTip": "Notification\\Commands\\UpdateTaskCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:25:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Services\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Notification\\Services\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Services\\DataSeeder.cs",
+              "RelativeToolTip": "Notification\\Services\\DataSeeder.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:52:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Notification\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Notification\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:34:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Notification\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Notification\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:21:22.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Notification\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Notification\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:42:11.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Notification\\Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Services\\INotificationService.cs",
+              "RelativeToolTip": "Notification\\Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:19:32.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\DTOs\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification\\DTOs\\Notification.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\DTOs\\Notification.cs",
+              "RelativeToolTip": "Notification\\DTOs\\Notification.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:17:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "Notification\\DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "Notification\\DTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:16:23.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Notification",
+              "DocumentMoniker": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Notification.csproj",
+              "RelativeDocumentMoniker": "Notification\\Notification.csproj",
+              "ToolTip": "C:\\Users\\ancha\\Desktop\\New folder\\SignalR\\Notification\\Notification\\Notification.csproj",
+              "RelativeToolTip": "Notification\\Notification.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T07:42:59.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
